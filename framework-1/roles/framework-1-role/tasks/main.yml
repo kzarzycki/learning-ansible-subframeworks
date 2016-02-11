@@ -1,0 +1,4 @@
+- debug: 
+    msg: | 
+      Im framework-1-role. Printing framework variable: {{ some_var }}
+

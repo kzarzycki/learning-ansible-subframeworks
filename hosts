@@ -1,0 +1,6 @@
+localhost ansible_connection=local
+
+[framework-1-group]
+localhost
+[framework-2-group]
+localhost

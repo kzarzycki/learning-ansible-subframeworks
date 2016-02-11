@@ -1,0 +1,2 @@
+- include: framework-1/site.yml
+- include: framework-2/site.yml

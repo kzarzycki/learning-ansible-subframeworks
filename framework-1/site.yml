@@ -1,0 +1,4 @@
+- hosts: framework-1-group
+  roles:
+    - framework-1-role
+
